@@ -312,101 +312,98 @@ Hong Kong and China mainland
 
 ### Language Codes
 
-| Language Code  | Native Name             | English Name            |
-| -------------- | ----------------------- | ----------------------- |
-| AFR            | Afrikaans               | Afrikaans               |
-| AZE            | Azərbaycan              | Azerbaijani             |
-| BOS            | Bosanski                | Bosnian                 |
-| CZE            | Čeština                 | Czech                   |
-| DAN            | Dansk                   | Danish                  |
-| DEU            | Deutsch                 | German                  |
-| EST            | Eesti                   | Estonian                |
-| ENG            | English (UK)            | English (UK)            |
-| ENG_US         | English (US)            | English (US)            |
-| SPA            | Español (España)        | Spanish (Spain)         |
-| SPA_US         | Español (Latinoamérica) | Spanish (Latin America) |
-| FRA_US         | Français (Canada)       | French (Canada)         |
-| FRA            | Français (France)       | French (France)         |
-| ALB            | Shqip        | Albanian            |
-| AMH            | አማርኛ       | Amharic             |
-| ARA            | العربية     | Arabic              |
-| ARM            | Հայերեն     | Armenian            |
-| ASM            | অসমীয়া      | Assamese            |
-| BEN            | বাংলা        | Bangla             |
-| BHI            | भीली         | Bhili              |
-| BUL            | Български   | Bulgarian          |
-| CAM            | ខ្មែរ          | Khmer              |
-| CHI            | 简体中文      | Simplified Chinese |
-| CRO            | Hrvatski    | Croatian            |
-| DUT            | Nederlands  | Dutch               |
+| Code   | Native Name             | English Name                    |
+| ------ | ----------------------- | ------------------------------- |
+| AFR    | Afrikaans               | Afrikaans                       |
+| IGB    | Asusu Igbo              | Igbo                            |
+| AZE    | Azərbaycan              | Azerbaijani                     |
+| MAY    | Bahasa Melayu           | Malay                           |
+| BOS    | Bosanski                | Bosnian                         |
+| CZE    | Čeština                 | Czech                           |
+| DAN    | Dansk                   | Danish                          |
+| DEU    | Deutsch                 | German                          |
+| EST    | Eesti                   | Estonian                        |
+| ENG    | English (UK)            | English (UK)                    |
+| ENG_US | English (US)            | English (US)                    |
+| SPA    | Español (España)        | Spanish (Spain)                 |
+| SPA_US | Español (Latinoamérica) | Spanish (Latin America)         |
+| FRA_US | Français (Canada)       | French (Canada)                 |
+| FRA    | Français (France)       | French (France)                 |
+| HAU    | Hausa                   | Hausa                           |
+| CRO    | Hrvatski                | Croatian                        |
+| IND    | Indonesia               | Indonesian                      |
+| XHO    | IsiXhosa                | Xhosa                           |
+| ZUL    | IsiZulu                 | Zulu                            |
+| ITA    | Italiano                | Italian                         |
+| SWA    | Kiswahili               | Swahili                         |
+| KUR    | Kurmancî                | Kurmanji                        |
+| LAT    | Latviešu                | Latvian                         |
+| LTU    | Lietuvių                | Lithuanian                      |
+| HUN    | Magyar                  | Hungarian                       |
+| MAO    | Māori                   | Maori                           |
+| DUT    | Nederlands              | Dutch                           |
+| NOR    | Norsk                   | Norwegian                       |
+| UZB    | O‘zbek                  | Uzbek                           |
+| POL    | Polski                  | Polish                          |
+| POR_US | Português (Brasil)      | Portuguese (Brazil)             |
+| POR    | Português (Portugal)    | Portuguese (Portugal)           |
+| ROM    | Română                  | Romanian                        |
+| ALB    | Shqip                   | Albanian                        |
+| SLK    | Slovenčina              | Slovak                          |
+| SLV    | Slovenščina             | Slovenian                       |
+| SER    | Srpski                  | Serbian                         |
+| FIN    | Suomi                   | Finnish                         |
+| SWE    | Svenska                 | Swedish                         |
+| FIL    | Tagalog                 | Filipino/Tagalog                |
+| VIE    | Tiếng Việt              | Vietnamese                      |
+| TUR    | Türkçe                  | Turkish                         |
+| YOR    | Yorùbá                  | Yoruba                          |
+| GRE    | Ελληνικά                | Greek                           |
+| BUL    | Български               | Bulgarian                       |
+| KAZ    | Қазақ                   | Kazakh                          |
+| MKD    | Македонски              | Macedonian                      |
+| MON    | Монгол Улс              | Mongolian                       |
+| RUS    | Русский                 | Russian                         |
+| UKR    | Українська              | Russian                         |
+| GEO    | ქართული                 | Georgian                        |
+| ARM    | Հայերեն                 | Armenian                        |
+| HEB    | עברית                   | Hebrew                          |
+| URD    | اردو                    | Urdu                            |
+| ARA    | العربية                 | Arabic                          |
+| PER    | فارسی                   | Persian                         |
+| SOR    | سۆرانی                  | Sorani Kurdish                  |
+| AMH    | አማርኛ                   | Amharic                         |
+| KAS    | कॉशुर                    | Kashmiri                        |
+| KOK    | कोंकणी                   | Konkani                         |
+| NEP    | नेपाली                    | Nepali                          |
+| BHI    | भीली                     | Bhili                           |
+| MAR    | मराठी                     | Marathi                         |
+| MAI    | मैथिली                    | Maithili                        |
+| SKR    | संस्कृतम्                   | Sanskrit                        |
+| SIN    | सिन्धी                    | Sindhi                          |
+| HIN    | हिंदी                     | Hindi                           |
+| ASM    | অসমীয়া                  | Assamese                        |
+| BEN    | বাংলা                    | Bangla                          |
+| MAN    | মণিপুরী                   | Manipuri                        |
+| PAN    | ਪੰਜਾਬੀ                    | Punjabi                         |
+| GUJ    | ગુજરાતી                   | Gujarati                        |
+| ORI    | ଓଡ଼ିଆ                    | Odia                            |
+| TAM    | தமிழ்                    | Tamil                           |
+| TEL    | తెలుగు                   | Telugu                          |
+| KAN    | ಕನ್ನಡ                    | Kannada                         |
+| TUL    | ತುಳು                    | Tulu                            |
+| MAL    | മലയാളം                 | Malayalam                       |
+| THA    | ไทย                    | Thai                            |
+| MYA    | မြန်မာ                   | Burmese                         |
+| CAM    | ខ្មែរ                     | Khmer                           |
+| SAN    | ᱞᱟᱝᱠᱠᱭᱦ                | Santali                         |
+| KOR    | 한국어                   | Korean                          |
+| TPE    | 國語                    | Traditional Chinese (Taiwan)    |
+| JPN    | 日本語                   | Japanese                        |
+| CHI    | 简体中文                 | Simplified Chinese              |
+| HKG    | 繁體中文                  | Traditional Chinese (Hong Kong) |
 
 
-
-* **FIL:** Filipino/Tagalog
-* **FIN:** Finnish
-* **FRA:** French (France)
-* **FRA_US:** French (Canada)
-* **GEO:** Georgian
-* **GRE:** Greek
-* **GUJ:** Gujarati
-* **HAU:** Hausa
-* **HEB:** Hebrew
-* **HIN:** Hindi
-* **HKG:** Traditional Chinese (Hong Kong)
-* **HUN:** Hungarian
-* **IGB:** Igbo
-* **IND:** Indonesian
-* **ITA:** Italian
-* **JPN:** Japanese
-* **KAN:** Kannada
-* **KAS:** Kashmiri
-* **KAZ:** Kazakh
-* **KOK:** Konkani
-* **KOR:** Korean
-* **KUR:** Kurmanji
-* **LAT:** Latvian
-* **LTU:** Lithuanian
-* **MAI:** Maithili
-* **MAL:** Malayalam
-* **MAN:** Manipuri
-* **MAO:** Maori
-* **MAR:** Marathi
-* **MAY:** Malay
-* **MON:** Mongolian
-* **MKD:** Macedonian
-* **MYA:** Burmese (Myanmar)
-* **NEP:** Nepali
-* **NOR:** Norwegian
-* **ORI:** Odia
-* **PAN:** Punjabi
-* **PER:** Persian
-* **POL:** Polish
-* **POR:** Portuguese (Portugal)
-* **POR_US:** Portuguese (Brazil)
-* **ROM:** Romanian
-* **RUS:** Russian
-* **SAN:** Santali
-* **SER:** Serbian
-* **SIN:** Sindhi
-* **SKR:** Sanskrit
-* **SLK:** Slovak
-* **SLV:** Slovenian
-* **SOR:** Sorani Kurdish
-* **SWA:** Swahili
-* **SWE:** Swedish
-* **TAM:** Tamil
-* **TEL:** Telugu
-* **THA:** Thai
-* **TPE:** Traditional Chinese (Taiwan)
-* **TUL:** Tulu
-* **TUR:** Turkish
-* **UKR:** Ukrainian
-* **URD:** Urdu
-* **UZB:** Uzbek
-* **VIE:** Vietnamese
-* **XHO:** Xhosa
-* **YOR:** Yoruba
-* **ZUL:** Zulu
 
 
 
