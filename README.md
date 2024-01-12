@@ -311,13 +311,23 @@ Hong Kong and China mainland
 ## Appendix
 
 ### Language Codes
-* **AFR:** Afrikaans
-* **ALB:** Albanian
-* **AMH:** Amharic
-* **ARA:** Arabic
-* **ARM:** Armenian 
-* **ASM:** Assamese
-* **AZE:** Azerbaijani
+
+| Language Code  | Native Name | English Name        |
+| -------------- | ----------- | ------------------- |
+| AFR            | Afrikaans   | Afrikaans           |
+| ALB            | Shqip       | Albanian            |
+| AMH            | አማርኛ       | Amharic             |
+| ARA            | العربية     | Arabic              |
+| ARM            | Հայերեն     | Armenian            |
+| ASM            | অসমীয়া      | Assamese            |
+| AZE            | Azərbaycan  | Azerbaijani        |
+| BEN            | বাংলা        | Bangla             |
+| BHI            | भीली         | Bhili              |
+| BOS            | Bosanski    | Bosnian            |
+| BUL            | Български   | Bulgarian          |
+| CAM            | ខ្មែរ          | Khmer              |
+| CHI            | 简体中文      | Simplified Chinese |
+
 * **BEN:** Bangla
 * **BHI:** Bhili
 * **BOS:** Bosnian
