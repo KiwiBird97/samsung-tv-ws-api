@@ -155,6 +155,17 @@ Hong Kong and China mainland
 
 ## Appendix
 
+### Local Set
+
+#### Americas
+
+| Code      | Country/Region |
+| --------- | -------------- |
+| US        | United States  |
+| SD_CANADA | Canada         |
+| SD_MEXICO | Mexico         |
+
+
 ### Language Codes
 
 | Code   | Native Name             | English Name                    |
