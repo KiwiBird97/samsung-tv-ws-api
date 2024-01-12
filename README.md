@@ -327,18 +327,13 @@ Hong Kong and China mainland
 | BUL            | Български   | Bulgarian          |
 | CAM            | ខ្មែរ          | Khmer              |
 | CHI            | 简体中文      | Simplified Chinese |
+| CRO            | Hrvatski    | Croatian            |
+| CZE            | Čeština     | Czech               |
+| DAN            | Dansk       | Danish              |
+| DEU            | Deutsch     | German              |
+| DUT            | Nederlands  | Dutch               |
 
-* **BEN:** Bangla
-* **BHI:** Bhili
-* **BOS:** Bosnian
-* **BUL:** Bulgarian
-* **CAM:** Khmer
-* **CHI:** Simplified Chinese
-* **CRO:** Croatian
-* **CZE:** Czech
-* **DAN:** Danish
-* **DEU:** German
-* **DUT:** Dutch
+
 * **ENG:** English (UK)
 * **ENG_US:** English (US)
 * **EST:** Estonian
