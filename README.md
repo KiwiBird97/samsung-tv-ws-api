@@ -193,6 +193,215 @@ Supported TV models may vary by region.
 
 For complete list https://developer.samsung.com/smarttv/develop/specifications/tv-model-groups.html
 
+
+## MRT Option
+
+### Language Set
+
+There are 25 different language sets.
+
+#### Korea
+
+**KOREA (2)**
+
+South Korea
+* **Menu and Keyboard:** KOR, ENG_US
+
+
+#### Americas
+
+**US**
+
+USA, Canada, Mexico, Brazil, North America, Latin America & Caribbean, Europe, and South Korea
+* **Menu (28):** ENG_US, SPA_US, FRA_US, EST, FIN, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, BOS, KOR
+* **Keyboard (27):** ENG_US, SPA_US, FRA_US, EST, FIN, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, KOR
+
+**CANADA (3)**
+* **Menu and Keyboard:** ENG_US, SPA_US, FRA_US
+
+**S_AMERICA (3)**
+
+Mexico, Brazil, and South America
+* **Menu and Keyboard:** ENG_US, SPA_US, POR_US
+
+
+#### Europe
+
+**EU**
+
+Europe and South Korea
+* **Menu (28):** ENG, EST, FIN, FRA, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, BOS, KOR
+* **Keyboard (27):** ENG, EST, FIN, FRA, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, KOR
+
+
+#### CIS
+
+**CIS (26)**
+* **Menu and Keyboard:** ENG, FIN, FRA, DEU, GRE, HUN, ITA, NOR, POL, POR, ROM, RUS, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, UKR, KAZ
+
+**CAUCASUS**
+
+CIS, Central Asia, and South Korea
+* **Menu (32):** ENG, FIN, FRA, DEU, GRE, HUN, ITA, NOR, POL, POR, ROM, RUS, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, UKR, KAZ, AZE, GEO, ARM, UZB, MON, KOR
+* **Keyboard (27):** ENG, FIN, FRA, DEU, GRE, HUN, ITA, NOR, POL, POR, ROM, RUS, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, UKR, KAZ, KOR
+
+**CENTRAL ASIA**
+* **Menu (28):** ENG, FIN, FRA, DEU, GRE, HUN, ITA, NOR, POL, POR, ROM, RUS, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, UKR, KAZ, UZB, MON
+* **Keyboard (26):** ENG, FIN, FRA, DEU, GRE, HUN, ITA, NOR, POL, POR, ROM, RUS, SER, SLK, SPA, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, UKR, KAZ
+
+
+#### India
+
+**WEST ASIA**
+
+India, Nepal, and Bangladesh
+* **Menu (23):** ENG, HIN, TAM, BEN, TEL, MAR, KOK, GUJ, KAN, MAL, ORI, PAN, ASM, MAI, SAN, KAS, NEP, SIN, MAN, SKR, BHI, TUL, URD
+* **Keyboard (4):** ENG, HIN, TAM, URD
+
+
+#### Asia Pacific
+
+**EAST ASIA (18)**
+
+South Korea, China mainland, Taiwan, Macau, Cambodia, Indonesia, Malaysia, Myanmar, and Philippines
+* **Menu and Keyboard:** ENG, THA, CAM, CHI, MYA, DEU, RUS, FRA, SPA, ITA, POR, MAY, VIE, IND, TPE, TAM, KOR, HIN
+
+**MALAYSIA (3)**
+
+Malaysia and China mainland
+* **Menu and Keyboard:** ENG, CHI, MAY
+
+**PHILIPPINE**
+
+Philippines, Indonesia, China mainland, South Korea, and Vietnam
+* **Menu (6):** ENG, IND, VIE, CHI, FIL, KOR
+* **Keyboard (5):** ENG, IND, VIE, CHI, KOR
+
+**AUSTRALIA (9)**
+
+Australia, New Zealand, Malaysia, and China mainland
+* **Menu and Keyboard:** ENG, CHI, KOR, FRA, ITA, DEU, SPA, MAY, MAO
+
+**MYANMAR (5)**
+
+Myanmar, Cambodia, Thailand, and China mainland
+* **Menu and Keyboard:** ENG, THA, MYA, CAM, CHI
+
+
+#### China
+
+**TAIWAN (2)**
+* **Menu and Keyboard:** ENG, TPE
+
+**CHINA (2)**
+* **Menu and Keyboard:** ENG, CHI
+
+**HONGKONG (3)**
+
+Hong Kong and China mainland
+* **Menu and Keyboard:** ENG, HKG, CHI
+
+
+#### Japan
+
+**JAPAN (2)**
+* **Menu and Keyboard:** ENG_US, JPN
+
+
+## Appendix
+
+### Language Codes
+* **AFR:** Afrikaans
+* **ALB:** Albanian
+* **AMH:** Amharic
+* **ARA:** Arabic
+* **ARM:** Armenian 
+* **ASM:** Assamese
+* **AZE:** Azerbaijani
+* **BEN:** Bangla
+* **BHI:** Bhili
+* **BOS:** Bosnian
+* **BUL:** Bulgarian
+* **CAM:** Khmer
+* **CHI:** Simplified Chinese
+* **CRO:** Croatian
+* **CZE:** Czech
+* **DAN:** Danish
+* **DEU:** German
+* **DUT:** Dutch
+* **ENG:** English (UK)
+* **ENG_US:** English (US)
+* **EST:** Estonian
+* **FIL:** Filipino/Tagalog
+* **FIN:** Finnish
+* **FRA:** French (France)
+* **FRA_US:** French (Canada)
+* **GEO:** Georgian
+* **GRE:** Greek
+* **GUJ:** Gujarati
+* **HAU:** Hausa
+* **HEB:** Hebrew
+* **HIN:** Hindi
+* **HKG:** Traditional Chinese (Hong Kong)
+* **HUN:** Hungarian
+* **IGB:** Igbo
+* **IND:** Indonesian
+* **ITA:** Italian
+* **JPN:** Japanese
+* **KAN:** Kannada
+* **KAS:** Kashmiri
+* **KAZ:** Kazakh
+* **KOK:** Konkani
+* **KOR:** Korean
+* **KUR:** Kurmanji
+* **LAT:** Latvian
+* **LTU:** Lithuanian
+* **MAI:** Maithili
+* **MAL:** Malayalam
+* **MAN:** Manipuri
+* **MAO:** Maori
+* **MAR:** Marathi
+* **MAY:** Malay
+* **MON:** Mongolian
+* **MKD:** Macedonian
+* **MYA:** Burmese (Myanmar)
+* **NEP:** Nepali
+* **NOR:** Norwegian
+* **ORI:** Odia
+* **PAN:** Punjabi
+* **PER:** Persian
+* **POL:** Polish
+* **POR:** Portuguese (Portugal)
+* **POR_US:** Portuguese (Brazil)
+* **ROM:** Romanian
+* **RUS:** Russian
+* **SAN:** Santali
+* **SER:** Serbian
+* **SIN:** Sindhi
+* **SKR:** Sanskrit
+* **SLK:** Slovak
+* **SLV:** Slovenian
+* **SOR:** Sorani Kurdish
+* **SPA:** Spanish (Spain)
+* **SPA_US:** Spanish (Latin America)
+* **SWA:** Swahili
+* **SWE:** Swedish
+* **TAM:** Tamil
+* **TEL:** Telugu
+* **THA:** Thai
+* **TPE:** Traditional Chinese (Taiwan)
+* **TUL:** Tulu
+* **TUR:** Turkish
+* **UKR:** Ukrainian
+* **URD:** Urdu
+* **UZB:** Uzbek
+* **VIE:** Vietnamese
+* **XHO:** Xhosa
+* **YOR:** Yoruba
+* **ZUL:** Zulu
+
+
+
 ## License
 
 GPL-2.0
