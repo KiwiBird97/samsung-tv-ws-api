@@ -312,31 +312,36 @@ Hong Kong and China mainland
 
 ### Language Codes
 
-| Language Code  | Native Name | English Name        |
-| -------------- | ----------- | ------------------- |
-| AFR            | Afrikaans   | Afrikaans           |
-| ALB            | Shqip       | Albanian            |
+| Language Code  | Native Name             | English Name            |
+| -------------- | ----------------------- | ----------------------- |
+| AFR            | Afrikaans               | Afrikaans               |
+| AZE            | Azərbaycan              | Azerbaijani             |
+| BOS            | Bosanski                | Bosnian                 |
+| CZE            | Čeština                 | Czech                   |
+| DAN            | Dansk                   | Danish                  |
+| DEU            | Deutsch                 | German                  |
+| EST            | Eesti                   | Estonian                |
+| ENG            | English (UK)            | English (UK)            |
+| ENG_US         | English (US)            | English (US)            |
+| SPA            | Español (España)        | Spanish (Spain)         |
+| SPA_US         | Español (Latinoamérica) | Spanish (Latin America) |
+| FRA_US         | Français (Canada)       | French (Canada)         |
+| FRA            | Français (France)       | French (France)         |
+| ALB            | Shqip        | Albanian            |
 | AMH            | አማርኛ       | Amharic             |
 | ARA            | العربية     | Arabic              |
 | ARM            | Հայերեն     | Armenian            |
 | ASM            | অসমীয়া      | Assamese            |
-| AZE            | Azərbaycan  | Azerbaijani        |
 | BEN            | বাংলা        | Bangla             |
 | BHI            | भीली         | Bhili              |
-| BOS            | Bosanski    | Bosnian            |
 | BUL            | Български   | Bulgarian          |
 | CAM            | ខ្មែរ          | Khmer              |
 | CHI            | 简体中文      | Simplified Chinese |
 | CRO            | Hrvatski    | Croatian            |
-| CZE            | Čeština     | Czech               |
-| DAN            | Dansk       | Danish              |
-| DEU            | Deutsch     | German              |
 | DUT            | Nederlands  | Dutch               |
 
 
-* **ENG:** English (UK)
-* **ENG_US:** English (US)
-* **EST:** Estonian
+
 * **FIL:** Filipino/Tagalog
 * **FIN:** Finnish
 * **FRA:** French (France)
@@ -387,8 +392,6 @@ Hong Kong and China mainland
 * **SLK:** Slovak
 * **SLV:** Slovenian
 * **SOR:** Sorani Kurdish
-* **SPA:** Spanish (Spain)
-* **SPA_US:** Spanish (Latin America)
 * **SWA:** Swahili
 * **SWE:** Swedish
 * **TAM:** Tamil
