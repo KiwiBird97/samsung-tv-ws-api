@@ -13,6 +13,8 @@ It currently supports modern (post-2016) TVs with Ethernet or Wi-Fi connectivity
 
 Based on https://github.com/marysieek/samsung-tv-api work
 
+# Language & Region
+
 ## Install
 
 ```bash
@@ -45,12 +47,18 @@ $ pip3 install "./samsung-tv-ws-api[async,encrypted]"
 
 There are 25 different language sets.
 
+You can check if the features in your language (OSD, input, audio) are supported.
+
 #### Korea
 
 **KOREA (2)**
 
 South Korea
-* **Menu and Keyboard:** KOR, ENG_US
+
+Code   | Native Name | English Name  | Menu? | Keyboard?
+------ | ----------- | ------------- | ----- | ---------
+KOR    | 한국어        | Korean        | Yes   | Yes
+ENG_US | English     | English       | Yes   | Yes
 
 
 #### Americas
@@ -58,16 +66,56 @@ South Korea
 **US**
 
 USA, Canada, Mexico, Brazil, North America, Latin America & Caribbean, Europe, and South Korea
-* **Menu (28):** ENG_US, SPA_US, FRA_US, EST, FIN, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, BOS, KOR
-* **Keyboard (27):** ENG_US, SPA_US, FRA_US, EST, FIN, DEU, GRE, HUN, ITA, LAT, LTU, NOR, POL, POR, ROM, SER, SLK, SWE, BUL, CRO, CZE, DAN, DUT, SLV, ALB, MKD, KOR
 
-**CANADA (3)**
-* **Menu and Keyboard:** ENG_US, SPA_US, FRA_US
+Code   | Native Name | English Name | Menu? | Keyboard?
+------ | ----------- | ------------ | ----- | ---------
+ENG_US | English     | English      | Yes   | Yes
+SPA_US | Español     | Spanish      | Yes   | Yes
+FRA_US | Français    | French       | Yes   | Yes
+EST    | Eesti       | Estonian     | Yes   | Yes
+FIN    | Suomi       | Finnish      | Yes   | Yes
+DEU    | Deutsch     | German       | Yes   | Yes
+GRE    | Ελληνικά    | Greek        | Yes   | Yes
+HUN    | Magyar      | Hungarian    | Yes   | Yes
+ITA    | Italiano    | Italian      | Yes   | Yes
+LAT    | Latviešu    | Latvian      | Yes   | Yes
+LTU    | Lietuvių    | Lithuanian   | Yes   | Yes
+NOR    | Norsk       | Norwegian    | Yes   | Yes
+POL    | Polski      | Polish       | Yes   | Yes
+POR    | Português   | Portuguese   | Yes   | Yes
+ROM    | Română      | Romanian     | Yes   | Yes
+SER    | Srpski      | Serbian      | Yes   | Yes
+SLK    | Slovenčina  | Slovak       | Yes   | Yes
+SWE    | Svenska     | Swedish      | Yes   | Yes
+BUL    | Български   | Bulgarian    | Yes   | Yes
+CRO    | Hrvatski    | Croatian     | Yes   | Yes
+CZE    | Čeština     | Czech        | Yes   | Yes
+DAN    | Dansk       | Danish       | Yes   | Yes
+DUT    | Nederlands  | Dutch        | Yes   | Yes
+SLV    | Slovenščina | Slovenian    | Yes   | Yes
+ALB    | Shqip       | Albanian     | Yes   | Yes
+MKD    | Македонски  | Macedonian   | Yes   | Yes
+BOS    | Bosanski    | Bosnian      | Yes   | No
+KOR    | 한국어        | Korean       | Yes   | Yes
 
-**S_AMERICA (3)**
+
+**CANADA**
+
+Code   | Native Name | English Name | Menu? | Keyboard?
+------ | ----------- | ------------ | ----- | ---------
+ENG_US | English     | English      | Yes   | Yes
+SPA_US | Español     | Spanish      | Yes   | Yes
+FRA_US | Français    | French       | Yes   | Yes
+
+**S_AMERICA**
 
 Mexico, Brazil, and South America
-* **Menu and Keyboard:** ENG_US, SPA_US, POR_US
+
+Code   | Native Name | English Name | Menu? | Keyboard?
+------ | ----------- | ------------ | ----- | ---------
+ENG_US | English     | English      | Yes   | Yes
+SPA_US | Español     | Spanish      | Yes   | Yes
+POR_US | Português   | Portugese    | Yes   | Yes
 
 
 #### Europe
