@@ -367,6 +367,10 @@ ARA  | العربية     | Arabic         | Yes   | Yes
 URD  | اردو        | Urdu           | Yes   | Yes
 SOR  | سۆرانی      | Sorani Kurdish | Yes   | No
 KUR  | Kurmancî    | Kurdish        | Yes   | No
+KOR  | 한국어        | Korean         | Yes   | Yes
+PER  | فارسی       | Persian        | Yes   | Yes
+RUS  | Русский     | Russian        | Yes   | Yes
+HIN  | हिंदी         | Hindi          | Yes   | Yes
 
 
 
