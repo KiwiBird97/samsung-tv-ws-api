@@ -117,7 +117,7 @@ Code   | Native Name | English Name | Menu? | Keyboard?
 ------ | ----------- | ------------ | ----- | ---------
 ENG_US | English     | English      | Yes   | Yes
 SPA_US | Español     | Spanish      | Yes   | Yes
-POR_US | Português   | Portugese    | Yes   | Yes
+POR_US | Português   | Portuguese   | Yes   | Yes
 
 
 #### Europe
