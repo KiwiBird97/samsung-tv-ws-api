@@ -283,7 +283,7 @@ Code | Native Name | English Name   | Menu? | Keyboard?
 ENG  | English     | English        | Yes   | Yes
 PER  | فارسی       | Persian        | Yes   | Yes
 ARA  | العربية     | Arabic         | Yes   | Yes
-SOR  | سۆرانی      | Sorani Kurdish | Yes   | No
+SOR  | سۆرانی      | Sorani          | Yes   | No
 KUR  | Kurmancî    | Kurdish        | Yes   | No
 URD  | اردو        | Urdu           | Yes   | Yes
 
@@ -365,7 +365,7 @@ ENG  | English     | English        | Yes   | Yes
 FRA  | Français    | French         | Yes   | Yes
 ARA  | العربية     | Arabic         | Yes   | Yes
 URD  | اردو        | Urdu           | Yes   | Yes
-SOR  | سۆرانی      | Sorani Kurdish | Yes   | No
+SOR  | سۆرانی      | Sorani         | Yes   | No
 KUR  | Kurmancî    | Kurdish        | Yes   | No
 KOR  | 한국어        | Korean         | Yes   | Yes
 PER  | فارسی       | Persian        | Yes   | Yes
@@ -486,7 +486,7 @@ Code | Native Name   | English Name      | Menu? | Keyboard?
 ---- | ------------- | ----------------- | ----- | ---------
 ENG  | English       | English           | Yes   | Yes
 THA  | ไทย           | Thai              | Yes   | Yes
-MYA  | မြန်မာ          | Burmese (Myanmar) | Yes   | Yes
+MYA  | မြန်မာ          | Burmese           | Yes   | Yes
 CAM  | ខ្មែរ            | Khmer             | Yes   | Yes
 CHI  | 简体中文        | Chinese           | Yes   | Yes
 
@@ -521,8 +521,8 @@ Hong Kong, Macao, and China mainland
 Code | Native Name   | English Name        | Menu? | Keyboard?
 ---- | ------------- | ------------------- | ----- | ---------
 ENG  | English       | English             | Yes   | Yes
-HKG  | 繁體中文         | Chinese (Hong Kong) | Yes   | Yes
-CHI  | 简体中文        | Chinese (China)     | Yes   | Yes
+HKG  | 繁體中文         | Cantonese          | Yes   | Yes
+CHI  | 简体中文        | Chinese             | Yes   | Yes
 
 
 
@@ -585,9 +585,9 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | SPA    | Español (España)        | Spanish (Spain)                 |
 | SWE    | Svenska                 | Swedish                         |
 | TUR    | Türkçe                  | Turkish                         |
-| CHI    | 简体中文                 | Simplified Chinese              |
-| HKG    | 繁體中文                  | Traditional Chinese (Hong Kong) |
-| TPE    | 國語                     | Traditional Chinese (Taiwan)    |
+| CHI    | 简体中文                 | Chinese              |
+| HKG    | 繁體中文                  | Cantonese           |
+| TPE    | 國語                     | Taiwanese   |
 | JPN    | 日本語                   | Japanese                        |
 | MAO    | Māori                   | Maori                           |
 | HIN    | हिंदी                     | Hindi                           |
@@ -633,7 +633,7 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | ASM    | অসমীয়া                   | Assamese                        |
 | MYA    | မြန်မာ                    | Burmese                         |
 | CAM    | ខ្មែរ                      | Khmer                           |
-| SOR    | سۆرانی                  | Sorani Kurdish                  |
+| SOR    | سۆرانی                  | Sorani                  |
 | KUR    | Kurmancî                | Kurmanji                        |
 | MAI    | मैथिली                    | Maithili                        |
 | SAN    | ᱥᱟᱱᱛᱟᱲᱤ                 | Santali                         |
