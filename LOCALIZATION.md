@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
     <img src="https://user-images.githubusercontent.com/5860071/47255992-611d9b00-d481-11e8-965d-d9816f254be2.png" width="300px" border="0" />
     <br/>
     <a href="https://github.com/xchwarze/samsung-tv-ws-api/releases/latest">
@@ -585,17 +585,23 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | SPA    | Español (España)        | Spanish (Spain)                 |
 | SWE    | Svenska                 | Swedish                         |
 | TUR    | Türkçe                  | Turkish                         |
-| CHI    | 简体中文                 | Chinese              |
-| HKG    | 繁體中文                  | Cantonese           |
-| TPE    | 國語                     | Taiwanese   |
+| CHI    | 简体中文                 | Chinese                         |
+| HKG    | 繁體中文                  | Cantonese                       |
+| TPE    | 國語                     | Taiwanese                       |
 | JPN    | 日本語                   | Japanese                        |
 | MAO    | Māori                   | Maori                           |
+| CMN    | ???                     | ???                             |
+| YUE    | ???                     | ???                             |
 | HIN    | हिंदी                     | Hindi                           |
 | EST    | Eesti                   | Estonian                        |
 | LAT    | Latviešu                | Latvian                         |
 | LTU    | Lietuvių                | Lithuanian                      |
 | ARA    | العربية                 | Arabic                          |
 | PER    | فارسی                   | Persian                         |
+| QAA    | ???                     | ???                             |
+| AD     | ???                     | ???                             |
+| CAT    | ???                     | ???                             |
+| VAL    | ???                     | ???                             |
 | THA    | ไทย                     | Thai                            |
 | HEB    | עברית                   | Hebrew                          |
 | IND    | Indonesia               | Indonesian                      |
@@ -610,13 +616,32 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | SWA    | Kiswahili               | Swahili                         |
 | AMH    | አማርኛ                   | Amharic                         |
 | TAM    | தமிழ்                    | Tamil                           |
+| IRA    | ???                     | ???                             |
 | FIL    | Tagalog                 | Filipino/Tagalog                |
+| LIT    | ???                     | ???                             |
+| LAV    | ???                     | ???                             |
 | SLV    | Slovenščina             | Slovenian                       |
 | ALB    | Shqip                   | Albanian                        |
 | UKR    | Українська              | Ukrainian                       |
 | KAZ    | Қазақ                   | Kazakh                          |
 | MKD    | Македонски              | Macedonian                      |
 | MAY    | Bahasa Melayu           | Malay                           |
+| WEL    | ???                     | ???                             |
+| GLA    | ???                     | ???                             |
+| IRI    | ???                     | ???                             |
+| OTHER  | ???                     | ???                             |
+| AKA    | ???                     | ???                             |
+| TWI    | ???                     | ???                             |
+| EWE    | ???                     | ???                             |
+| GAA    | ???                     | ???                             |
+| NZI    | ???                     | ???                             |
+| NBL    | ???                     | ???                             |
+| NSO    | ???                     | ???                             |
+| SOT    | ???                     | ???                             |
+| SSW    | ???                     | ???                             |
+| TSO    | ???                     | ???                             |
+| TSN    | ???                     | ???                             |
+| VEN    | ???                     | ???                             |
 | UZB    | O‘zbek                  | Uzbek                           |
 | AZE    | Azərbaycan              | Azerbaijani                     |
 | MON    | Монгол Улс              | Mongolian                       |
@@ -625,7 +650,7 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | TEL    | తెలుగు                   | Telugu                          |
 | MAR    | मराठी                     | Marathi                         |
 | KOK    | कोंकणी                    | Konkani                         |
-| GUJ    | ગુજરાતી                   | Gujarati                        |
+| GUJ    | ગુજરાતી                    | Gujarati                        |
 | KAN    | ಕನ್ನಡ                     | Kannada                         |
 | MAL    | മലയാളം                  | Malayalam                       |
 | ORI    | ଓଡ଼ିଆ                     | Odia                            |
@@ -633,7 +658,7 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | ASM    | অসমীয়া                   | Assamese                        |
 | MYA    | မြန်မာ                    | Burmese                         |
 | CAM    | ខ្មែរ                      | Khmer                           |
-| SOR    | سۆرانی                  | Sorani                  |
+| SOR    | سۆرانی                  | Sorani                          |
 | KUR    | Kurmancî                | Kurmanji                        |
 | MAI    | मैथिली                    | Maithili                        |
 | SAN    | ᱥᱟᱱᱛᱟᱲᱤ                 | Santali                         |
@@ -646,7 +671,6 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | TUL    | ತುಳು                    | Tulu                            |
 | GEO    | ქართული                 | Georgian                        |
 | ARM    | Հայերեն                 | Armenian                        |
-
 
 
 
