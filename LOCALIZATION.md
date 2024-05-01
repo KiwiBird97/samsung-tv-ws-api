@@ -126,36 +126,39 @@ POR_US | Português   | Portuguese   | Yes   | Yes
 
 Europe
 
-Code | Native Name | English Name  | Menu? | Keyboard?
----- | ----------- | ------------- | ----- | ---------
-POR  | Português   | Portuguese    | Yes   | Yes
-DAN  | Dansk       | Danish        | Yes   | Yes
-SPA  | Español     | Spanish       | Yes   | Yes
-ENG  | English     | English       | Yes   | Yes
-FRA  | Français    | French        | Yes   | Yes
-SWE  | Svenska     | Swedish       | Yes   | Yes
-FIN  | Suomi       | Finnish       | Yes   | Yes
-ITA  | Italiano    | Italian       | Yes   | Yes
-ROM  | Română      | Romanian      | Yes   | Yes
-BOS  | Bosanski    | Bosnian       | Yes   | No
-CRO  | Hrvatski    | Croatian      | Yes   | Yes
-SLV  | Slovenščina | Slovenian     | Yes   | Yes
-SER  | Srpski      | Serbian       | Yes   | Yes
-ALB  | Shqip       | Albanian      | Yes   | Yes
-LAT  | Latviešu    | Latvian       | Yes   | Yes
-LTU  | Lietuvių    | Lithuanian    | Yes   | Yes
-EST  | Eesti       | Estonian      | Yes   | Yes
-HUN  | Magyar      | Hungarian     | Yes   | Yes
-NOR  | Norsk       | Norwegian     | Yes   | Yes
-SLK  | Slovenčina  | Slovak        | Yes   | Yes
-CZE  | Čeština     | Czech         | Yes   | Yes
-DUT  | Nederlands  | Dutch         | Yes   | Yes
-DEU  | Deutsch     | German        | Yes   | Yes
-POL  | Polski      | Polish        | Yes   | Yes
-GRE  | Ελληνικά    | Greek         | Yes   | Yes
-MKD  | Македонски  | Macedonian    | Yes   | Yes
-BUL  | Български   | Bulgarian     | Yes   | Yes
-KOR  | 한국어        | Korean        | Yes   | Yes
+Code | Native Name | English Name  | Menu?    | Keyboard?
+---- | ----------- | ------------- | -------- | ---------
+POR  | Português   | Portuguese    | Yes      | Yes
+DAN  | Dansk       | Danish        | Yes      | Yes
+SPA  | Español     | Spanish       | Yes      | Yes
+ENG  | English     | English       | Yes      | Yes
+FRA  | Français    | French        | Yes      | Yes
+SWE  | Svenska     | Swedish       | Yes      | Yes
+FIN  | Suomi       | Finnish       | Yes      | Yes
+ITA  | Italiano    | Italian       | Yes      | Yes
+ROM  | Română      | Romanian      | Yes      | Yes
+BOS  | Bosanski    | Bosnian       | Yes      | No
+CRO  | Hrvatski    | Croatian      | Yes      | Yes
+SLV  | Slovenščina | Slovenian     | Yes      | Yes
+SER  | Srpski      | Serbian       | Yes      | Yes
+ALB  | Shqip       | Albanian      | Yes      | Yes
+LAT  | Latviešu    | Latvian       | Yes      | Yes
+LTU  | Lietuvių    | Lithuanian    | Yes      | Yes
+EST  | Eesti       | Estonian      | Yes      | Yes
+HUN  | Magyar      | Hungarian     | Yes      | Yes
+NOR  | Norsk       | Norwegian     | Yes      | Yes
+SLK  | Slovenčina  | Slovak        | Yes      | Yes
+CZE  | Čeština     | Czech         | Yes      | Yes
+DUT  | Nederlands  | Dutch         | Yes      | Yes
+DEU  | Deutsch     | German        | Yes      | Yes
+POL  | Polski      | Polish        | Yes      | Yes
+GRE  | Ελληνικά    | Greek         | Yes      | Yes
+MKD  | Македонски  | Macedonian    | Yes      | Yes
+BUL  | Български   | Bulgarian     | Yes      | Yes
+RUS  | Русский     | Russian       | See note | See note
+KOR  | 한국어        | Korean        | Yes      | Yes
+
+Note: To enable Russian as a language, you must be within the Baltic States (Estonia, Latvia, Lithuania) and connect your TV/Monitor to the Internet.
 
 
 
