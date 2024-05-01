@@ -554,7 +554,8 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 
 ### All Languages
 
-The Tizen OS has support for many languages. A "???" indicator means that the language is not used in any of the regions where Samsung Tizen products are sold.
+
+#### Known Languages
 
 | Code   | Native Name             | English Name                    |
 | ------ | ----------------------- | ------------------------------- |
@@ -590,18 +591,12 @@ The Tizen OS has support for many languages. A "???" indicator means that the la
 | TPE    | 國語                     | Taiwanese                       |
 | JPN    | 日本語                   | Japanese                        |
 | MAO    | Māori                   | Maori                           |
-| CMN    | ???                     | ???                             |
-| YUE    | ???                     | ???                             |
 | HIN    | हिंदी                     | Hindi                           |
 | EST    | Eesti                   | Estonian                        |
 | LAT    | Latviešu                | Latvian                         |
 | LTU    | Lietuvių                | Lithuanian                      |
 | ARA    | العربية                 | Arabic                          |
 | PER    | فارسی                   | Persian                         |
-| QAA    | ???                     | ???                             |
-| AD     | ???                     | ???                             |
-| CAT    | ???                     | ???                             |
-| VAL    | ???                     | ???                             |
 | THA    | ไทย                     | Thai                            |
 | HEB    | עברית                   | Hebrew                          |
 | IND    | Indonesia               | Indonesian                      |
@@ -616,32 +611,13 @@ The Tizen OS has support for many languages. A "???" indicator means that the la
 | SWA    | Kiswahili               | Swahili                         |
 | AMH    | አማርኛ                   | Amharic                         |
 | TAM    | தமிழ்                    | Tamil                           |
-| IRA    | ???                     | ???                             |
 | FIL    | Tagalog                 | Filipino/Tagalog                |
-| LIT    | ???                     | ???                             |
-| LAV    | ???                     | ???                             |
 | SLV    | Slovenščina             | Slovenian                       |
 | ALB    | Shqip                   | Albanian                        |
 | UKR    | Українська              | Ukrainian                       |
 | KAZ    | Қазақ                   | Kazakh                          |
 | MKD    | Македонски              | Macedonian                      |
 | MAY    | Bahasa Melayu           | Malay                           |
-| WEL    | ???                     | ???                             |
-| GLA    | ???                     | ???                             |
-| IRI    | ???                     | ???                             |
-| OTHER  | ???                     | ???                             |
-| AKA    | ???                     | ???                             |
-| TWI    | ???                     | ???                             |
-| EWE    | ???                     | ???                             |
-| GAA    | ???                     | ???                             |
-| NZI    | ???                     | ???                             |
-| NBL    | ???                     | ???                             |
-| NSO    | ???                     | ???                             |
-| SOT    | ???                     | ???                             |
-| SSW    | ???                     | ???                             |
-| TSO    | ???                     | ???                             |
-| TSN    | ???                     | ???                             |
-| VEN    | ???                     | ???                             |
 | UZB    | O‘zbek                  | Uzbek                           |
 | AZE    | Azərbaycan              | Azerbaijani                     |
 | MON    | Монгол Улс              | Mongolian                       |
@@ -673,7 +649,38 @@ The Tizen OS has support for many languages. A "???" indicator means that the la
 | ARM    | Հայերեն                 | Armenian                        |
 
 
+#### Unknown Languages
 
+Those languages are hidden in the firmware but not used in any of the regions where Samsung audio/video products are sold.
+
+
+| Code   | Native Name             | English Name                    |
+| ------ | ----------------------- | ------------------------------- |
+| CMN    | ???                     | ???                             |
+| YUE    | ???                     | ???                             |
+| QAA    | ???                     | ???                             |
+| AD     | ???                     | ???                             |
+| CAT    | Català                  | Catalan                         |
+| VAL    | ???                     | ???                             |
+| IRA    | ???                     | ???                             |
+| LIT    | ???                     | ???                             |
+| LAV    | ???                     | ???                             |
+| WEL    | Cymraeg                 | Welsh                           |
+| GLA    | ???                     | ???                             |
+| IRI    | ???                     | ???                             |
+| OTHER  | Other                   | Other                           |
+| AKA    | ???                     | ???                             |
+| TWI    | ???                     | ???                             |
+| EWE    | ???                     | ???                             |
+| GAA    | ???                     | ???                             |
+| NZI    | ???                     | ???                             |
+| NBL    | ???                     | ???                             |
+| NSO    | ???                     | ???                             |
+| SOT    | ???                     | ???                             |
+| SSW    | ???                     | ???                             |
+| TSO    | ???                     | ???                             |
+| TSN    | ???                     | ???                             |
+| VEN    | ???                     | ???                             |
 
 
 ## License
