@@ -552,9 +552,9 @@ JPN     | 日本語        | Japanese          | Yes   | Yes
 | SD_MEXICO | Mexico         |
 
 
-### Language Codes
+### All Languages
 
-#### Current
+The Tizen OS has support for many languages. A "???" indicator means that the language is not used in any of the regions where Samsung Tizen products are sold.
 
 | Code   | Native Name             | English Name                    |
 | ------ | ----------------------- | ------------------------------- |
