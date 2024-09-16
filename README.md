@@ -409,4 +409,4 @@ Hong Kong and China mainland
 
 ## License
 
-GPL-2.0
+LGPL-3.0
