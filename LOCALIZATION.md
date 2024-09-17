@@ -478,7 +478,7 @@ ITA  | Italiano      | Italian      | Yes   | Yes
 DEU  | Deutsch       | German       | Yes   | Yes
 SPA  | Español       | Spanish      | Yes   | Yes
 MAY  | Bahasa Melayu | Malay        | Yes   | Yes
-MAO  | Maōri         | Vietnamese   | Yes   | Yes
+MAO  | Māori         | Māori        | Yes   | Yes
 
 
 **MYANMAR**
