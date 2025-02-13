@@ -9,6 +9,9 @@ Do not change things unless it's really necessary.
 On the main page, you can see your software versions and component details. You can also see the date when you purchased your TV, monitor, or projector. The following options are available.
 
 ### Basic Options
+
+Menus other than Option and SVC do not have any user-serviceable components and are not listed in this document.
+
 * Option
 * Control
 * Debug
