@@ -322,7 +322,13 @@ ENG_US | English     | English (US)  | Yes   | Yes
 
 ##### USA
 
-United States of America
+USA & Caribbean
+
+**Notes**
+
+1. As of 2018, this language list is shared with the European language list, except this language list features American variants instead of European variants.
+2. During the initial setup, only English, Spanish, and French will be available.
+3. The MUTE-5-6-7-EXIT shortcut to enable Korean will no longer work as this language and other European languages will be available after setup.
 
 Code   | Native Name | English Name            | Menu? | Keyboard?
 ------ | ----------- | ----------------------- | ----- | ---------
@@ -466,8 +472,10 @@ KOR  | 한국어          | Korean            | Yes   | Yes
 
 Europe
 
-**Note:** To enable Russian as a language, you must be within the Baltic States (Estonia, Latvia, Lithuania) and connect your TV/Monitor to the Internet.
+**Notes**
 
+1. To enable Russian as a language, you must be within the Baltic States (Estonia, Latvia, Lithuania) and connect your TV/Monitor to the Internet.
+2. As of 2018, this language list is shared with the American language list, except this language list features European variants instead of American variants.
 
 Code | Native Name | English Name  | Menu?    | Keyboard?
 ---- | ----------- | ------------- | -------- | ---------
