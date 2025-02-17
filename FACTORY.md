@@ -38,6 +38,8 @@ Configure general options. You may want to take a screenshot of the settings lis
 
 All the settings will return to factory defaults. Only use this option before shipping out the TV.
 
+**Notes:** If you reset from this area, all settings will be reset, and the Date of Purchase will be changed to the date that you last used this option. You may also be ineligible for some promotions through the Samsung Promotions app on your Samsung display.
+
 ### Type
 
 View the panel model number.
@@ -125,8 +127,8 @@ Change the set of languages that appear in the System Manager > Language option.
 * Northern Africa
 * Western Asia
 * Malaysia
-* Korea
-* USA
+* South Korea
+* USA & Caribbean
 * CIS
 * Turkey
 * China mainland
