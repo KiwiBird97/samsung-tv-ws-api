@@ -52,38 +52,138 @@ This is empty and should not be changed.
 
 Change the region code for your TV's/Monitor's tuner. Here are some examples.
 
+#### None
 Local Set Option  | Countries
 ----------------- | -------------------------------------
 None              | Not set
-US                | USA, Canada, Puerto Rico, & Caribbean
+
+#### South Korea
+Local Set Option  | Countries
+----------------- | -------------------------------------
+KOR               | South Korea
+
+#### North America
+Local Set Option  | Countries
+----------------- | -------------------------------------
+US                | USA, Puerto Rico, & Caribbean
 SD_MEXICO         | Mexico
-EU                | Europe
-CIS_RUSSIA        | Russia
-CIS_UKR           | Ukraine
-EU_TURKEY         | Türkiye/Turkey
-CIS_CA_UZ         | Uzbekistan & Caucasus
-EU_ISRAEL         | Israel
-AD_AU2            | Australia & Oceania
-AD_SIN2           | Singapore & APAC
-ED_IRAN           | Iran
-ED_VIET           | Vietnam
-ED_INA            | Indonesia
-ED_INDIA          | India
-ED_THAI           | Thailand
-ED_PHI            | Philippines
-ED_EGYPT          | Egypt
-ED_AFRICA         | Africa
-ED_MAL            | Malaysia
-ED_UAE            | United Arab Emirates
+SD_CANADA         | Canada
+CARIBBE           | Caribbean
+
+#### Latin America
+Local Set Option  | Countries
+----------------- | -------------------------------------
 COLOMBIA          | Colombia
-TAIWAN            | Taiwan
-CHI_DTV           | China mainland (DTV)
-HKG_DTV           | Hong Kong (DTV)
+CUBA_DTV          | Cuba (DTV)
 BRA_DTV           | Brazil (DTV)
 CHILE_DTV         | Chile (DTV)
 PERU_DTV          | Peru (DTV)
 ARG_DTV           | Argentina (DTV)
+URU_DTV           | Uruguay (DTV)
+PAR_DTV           | Paraguay (DTV)
+ARG_DTV           | Argentina (DTV)
+SA_DTV            | South America (DTV)
 SELA              | Latin America (Other)
+
+#### Europe
+Local Set Option  | Countries
+----------------- | -------------------------------------
+EU                | Europe (Other)
+EU_BENELUX        | Benelux
+EU_FRANCE         | France
+EU_GER            | Germany
+EU_ISRAEL         | Israel
+EU_ITALY          | Italy
+EU_POLAND         | Poland
+EU_SPAIN          | Spain
+EU_TURKEY         | Türkiye/Turkey
+EU_UK             | United Kingdom
+NORDIC            | Nordic Countries
+EU_TOTAL          | ???
+
+#### CIS
+Local Set Option  | Countries
+----------------- | -------------------------------------
+CIS_CA_MS         | ???
+CIS_RUSSIA        | Russia
+CIS_UKR           | Ukraine
+CIS_CA_UZ         | Uzbekistan
+EA_CIS            | CIS (Other)
+
+#### Middle East & Africa
+Local Set Option  | Countries
+----------------- | -------------------------------------
+EA_AFR            | Africa
+ED_AFR            | Africa
+EU_AFRICA         | Northern Africa
+EU_ALGERIA        | Algeria
+ED_ALGERIA        | Algeria
+EA_EGYPT          | Egypt
+ED_EGYPT          | Egypt
+EA_IRAN           | Iran
+ED_IRAN           | Iran
+EA_ISRAEL         | Israel
+ED_ISRAEL         | Israel
+EA_LIBYA          | Libya
+ED_LIBYA          | Libya
+EA_SAUDI          | Saudi Arabia
+ED_SAUDI          | Saudi Arabia
+EA_S_AFR          | Southern Africa
+EU_S_AFR          | Southern Africa
+EU_RS_AFR         | South Africa
+EA_UAE            | United Arab Emirates
+ED_UAE            | United Arab Emirates
+EA_M_ASIA         | Middle East
+ED_M_ASIA         | Middle East
+ED_M_ASIA2        | Middle East
+
+#### Indian Subcontinent
+Local Set Option  | Countries
+----------------- | -------------------------------------
+EA_INDIA          | India
+ED_INDIA          | India
+EA_BANGLA         | Bangladesh
+EA_NEPAL          | Nepal
+EA_PAK            | Pakistan
+ED_PAK            | Pakistan
+EA_SRI            | Sri Lanka
+
+#### Asia Pacific
+Local Set Option  | Countries
+----------------- | -------------------------------------
+EA_INA            | Indonesia
+ED_INA            | Indonesia
+EA_MAL            | Malaysia
+ED_MAL            | Malaysia
+ED_MYAN           | Myanmar
+EA_PHI            | Philippines
+ED_PHI            | Philippines
+AD_SIN            | Singapore
+AD_SIN2           | Singapore
+EA_THAI           | Thailand
+ED_THAI           | Thailand
+EA_VIET           | Vietnam
+ED_VIET           | Vietnam
+EA_E_ASIA         | Eastern Asia (Other)
+AD_AU             | Australia
+AD_AU2            | Australia
+AD_NZ             | New Zealand
+AD_NZ2            | New Zealand
+AD_AU_NZ          | Oceania (Other)
+AD_AU_NZ2         | Oceania (Other)
+
+#### China
+Local Set Option  | Countries
+----------------- | -------------------------------------
+EA_CHINA          | China mainland
+CHI_DTV           | China mainland (DTV)
+TAIWAN            | Taiwan
+HKG_DTV           | Hong Kong (DTV)
+
+#### Japan
+Local Set Option  | Countries
+----------------- | -------------------------------------
+JAPAN             | Japan
 
 ### SW Model
 
