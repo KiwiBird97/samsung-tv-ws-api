@@ -50,7 +50,9 @@ This is empty and should not be changed.
 
 ### Local Set
 
-Change the region code for your TV's/Monitor's tuner. Here are some examples.
+Change the region code for your TV's/Monitor's tuner. This will affect certain features, such as channel lists, online services, etc.
+
+Here are some examples.
 
 #### None
 Local Set Option  | Countries
@@ -65,7 +67,7 @@ KOR               | South Korea
 #### North America
 Local Set Option  | Countries
 ----------------- | -------------------------------------
-US                | USA, Puerto Rico, & Caribbean
+US                | USA & Puerto Rico
 SD_MEXICO         | Mexico
 SD_CANADA         | Canada
 CARIBBE           | Caribbean
@@ -73,15 +75,14 @@ CARIBBE           | Caribbean
 #### Latin America
 Local Set Option  | Countries
 ----------------- | -------------------------------------
-COLOMBIA          | Colombia
-CUBA_DTV          | Cuba (DTV)
+ARG_DTV           | Argentina (DTV)
 BRA_DTV           | Brazil (DTV)
 CHILE_DTV         | Chile (DTV)
-PERU_DTV          | Peru (DTV)
-ARG_DTV           | Argentina (DTV)
-URU_DTV           | Uruguay (DTV)
+COLOMBIA          | Colombia
+CUBA_DTV          | Cuba (DTV)
 PAR_DTV           | Paraguay (DTV)
-ARG_DTV           | Argentina (DTV)
+PERU_DTV          | Peru (DTV)
+URU_DTV           | Uruguay (DTV)
 SA_DTV            | South America (DTV)
 SELA              | Latin America (Other)
 
