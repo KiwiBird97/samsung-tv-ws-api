@@ -215,10 +215,10 @@ Select the LVDS format for the image. Most users usually use JEIDA.
 
 #### Language Set
 
-Change the set of languages that appear in the System Manager > Language option.
+Change the set of languages that appear in the System Manager > Language option. This can come in handy when testing your Tizen app for other local markets since the Tizen Emulator only supports languages for markets in North America, Europe, and South Korea.
 
 * Unknown
-* East Asia
+* Eastern Asia
 * Iran
 * Israel
 * Middle East
@@ -226,7 +226,7 @@ Change the set of languages that appear in the System Manager > Language option.
 * Taiwan
 * Africa
 * Northern Africa
-* Western Asia
+* India & Western Asia
 * Malaysia
 * South Korea
 * USA & Caribbean
@@ -237,8 +237,8 @@ Change the set of languages that appear in the System Manager > Language option.
 * Japan
 * Canada
 * Philippines
-* EU
-* Australia (Oceania)
+* EU & EEA
+* Australia & Oceania
 * Caucasus
 * Central Asia
 * Myanmar
