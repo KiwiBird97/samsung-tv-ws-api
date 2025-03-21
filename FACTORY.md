@@ -217,31 +217,33 @@ Select the LVDS format for the image. Most users usually use JEIDA.
 
 Change the set of languages that appear in the System Manager > Language option. This can come in handy when testing your Tizen app for other local markets since the Tizen Emulator only supports languages for markets in North America, Europe, and South Korea.
 
-* Unknown
-* Eastern Asia
-* Iran
-* Israel
-* Middle East
-* South America
-* Taiwan
-* Africa
-* Northern Africa
-* India & Western Asia
-* Malaysia
-* South Korea
-* USA & Caribbean
-* CIS
-* Turkey
-* China mainland
-* Hong Kong
-* Japan
-* Canada
-* Philippines
-* EU & EEA
-* Australia & Oceania
-* Caucasus
-* Central Asia
-* Myanmar
+Language Set Option  | Name
+-------------------- | ------------------------------------------------------------------
+UNKNOWN              | Unknown (do not use)
+EAST ASIA            | Eastern Asia (includes TAIWAN, MALAYSIA, CHINA, and MYANMAR)
+IRAN                 | Iran
+ISRAEL               | Israel (same as N_AFRICA)
+MIDDLE ASIA          | Middle East
+S_AMERICA            | South America
+TAIWAN               | Taiwan (no longer used, use EAST ASIA instead)
+AFRICA               | Southern Africa
+N_AFRICA             | Northern Africa (same as ISRAEL)
+WEST ASIA            | India
+MALAYSIA             | Malaysia (no longer used, use EAST ASIA instead)
+KR                   | South Korea
+US                   | USA/Puerto Rico/Caribbean (same as EU but with different dialects)
+CIS                  | CIS (no longer used, use CAUSASUS instead)
+TURKEY               | Türkiye
+CHINA                | China mainland (no longer used, use EAST ASIA instead)
+HONGKONG             | Hong Kong
+JAPAN                | Japan
+CANADA               | Canada (no longer used, use US instead)
+PHILIPPINE           | Philippines
+EU                   | Europe (same as US but with different dialects)
+AUSTRALIA            | Australia/New Zealand
+CAUCASUS             | Causasus Regions
+CENTRAL ASIA         | Central Asia (no longer used, use CAUSASUS instead)
+MYANMAR              | Myanmar (Burma) (no longer used, use EAST ASIA instead)
 
 
 ##### EAST ASIA
@@ -707,16 +709,6 @@ UZB  | O‘zbek      | Uzbek         | Yes   | No
 MON  | Монгол Улс  | Mongolian     | Yes   | No
 
 
-
-
-
-
-
-
-
-
-
-
 ##### MYANMAR
 
 Myanmar, Cambodia, and Thailand
@@ -786,7 +778,7 @@ Change the broadcast region (not the tuner). Available options depend on the dev
 
 #### PnP Language
 
-Change the system language used for the user interface and voice features.
+Change the system language used for the user interface and voice features. Depending on your market, only certain languages support natural language processing for voice features. If you set it to an unsupported language, only a limited number of voice commands will be available.
 
 #### PnP Language Selection Support
 
