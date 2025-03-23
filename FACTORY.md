@@ -231,7 +231,7 @@ N_AFRICA             | Northern Africa (same as ISRAEL)
 WEST ASIA            | India
 MALAYSIA             | Malaysia (no longer used, use EAST ASIA instead)
 KR                   | South Korea
-US                   | USA/Puerto Rico/Caribbean (same as EU but with different dialects)
+US                   | USA/Mexico/Canada/Puerto Rico/Caribbean (same as EU but with different dialects)
 CIS                  | CIS (no longer used, use CAUSASUS instead)
 TURKEY               | Türkiye
 CHINA                | China mainland (no longer used, use EAST ASIA instead)
