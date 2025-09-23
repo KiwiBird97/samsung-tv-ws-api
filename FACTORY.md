@@ -514,6 +514,7 @@ TUR  | Türkçe      | Turkish      | Yes   | Yes
 ARA  | العربية     | Arabic       | Yes   | Yes
 SPA  | Español     | Spanish      | Yes   | Yes
 KOR  | 한국어        | Korean       | Yes   | Yes
+PER  | فارسی       | Persian        | Yes   | Yes
 
 
 ##### CHINA
