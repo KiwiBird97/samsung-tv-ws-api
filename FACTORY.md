@@ -4,6 +4,13 @@ Configure the factory menu on Samsung Smart TVs, Monitors, and projectors.
 
 Do not change things unless it's really necessary.
 
+Tested on firmware 8.0.1xxx.x and later.
+
+Tizen Version  | Current Version
+-------------- | ---------------
+Tizen 8.0      | 8.0.2043.1
+Tizen 9.0      | 9.0.xxxx.x 
+
 ## Main Page
 
 On the main page, you can see your software versions and component details. You can also see the date when you purchased your TV, monitor, or projector. The following options are available.
