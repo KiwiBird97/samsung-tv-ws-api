@@ -129,8 +129,8 @@ EA_LIBYA          | Libya (Analog)
 ED_LIBYA          | Libya (Digital)
 EA_SAUDI          | Saudi Arabia (Analog)
 ED_SAUDI          | Saudi Arabia (Digital)
-EA_S_AFR          | Southern Africa (Analog)
-EU_S_AFR          | Southern Africa (Digital)
+EA_S_AFR          | Southern Africa
+EU_S_AFR          | Southern Africa
 EU_RS_AFR         | South Africa
 EA_UAE            | United Arab Emirates (Analog)
 ED_UAE            | United Arab Emirates (Digital)
