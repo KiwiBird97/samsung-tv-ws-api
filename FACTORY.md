@@ -114,57 +114,57 @@ EA_CIS            | CIS (Other)
 #### Middle East & Africa
 Local Set Option  | Countries
 ----------------- | -------------------------------------
-EA_AFR            | Africa
-ED_AFR            | Africa
+EA_AFR            | Africa (Analog)
+ED_AFR            | Africa (Digital)
 EU_AFRICA         | Northern Africa
 EU_ALGERIA        | Algeria
 ED_ALGERIA        | Algeria
-EA_EGYPT          | Egypt
-ED_EGYPT          | Egypt
-EA_IRAN           | Iran
-ED_IRAN           | Iran
-EA_ISRAEL         | Israel
-ED_ISRAEL         | Israel
-EA_LIBYA          | Libya
-ED_LIBYA          | Libya
-EA_SAUDI          | Saudi Arabia
-ED_SAUDI          | Saudi Arabia
-EA_S_AFR          | Southern Africa
-EU_S_AFR          | Southern Africa
+EA_EGYPT          | Egypt (Analog)
+ED_EGYPT          | Egypt (Digital)
+EA_IRAN           | Iran (Analog)
+ED_IRAN           | Iran (Digital)
+EA_ISRAEL         | Israel (Analog)
+ED_ISRAEL         | Israel (Digital)
+EA_LIBYA          | Libya (Analog)
+ED_LIBYA          | Libya (Digital)
+EA_SAUDI          | Saudi Arabia (Analog)
+ED_SAUDI          | Saudi Arabia (Digital)
+EA_S_AFR          | Southern Africa (Analog)
+EU_S_AFR          | Southern Africa (Digital)
 EU_RS_AFR         | South Africa
-EA_UAE            | United Arab Emirates
-ED_UAE            | United Arab Emirates
-EA_M_ASIA         | Middle East
-ED_M_ASIA         | Middle East
-ED_M_ASIA2        | Middle East
+EA_UAE            | United Arab Emirates (Analog)
+ED_UAE            | United Arab Emirates (Digital)
+EA_M_ASIA         | Middle East 1 (Analog)
+ED_M_ASIA         | Middle East 1 (Digital)
+ED_M_ASIA2        | Middle East 2 (Digital)
 
 #### Indian Subcontinent
 Local Set Option  | Countries
 ----------------- | -------------------------------------
-EA_INDIA          | India
-ED_INDIA          | India
-EA_BANGLA         | Bangladesh
-EA_NEPAL          | Nepal
-EA_PAK            | Pakistan
-ED_PAK            | Pakistan
-EA_SRI            | Sri Lanka
+EA_INDIA          | India (Analog)
+ED_INDIA          | India (Digital)
+EA_BANGLA         | Bangladesh (Analog)
+EA_NEPAL          | Nepal (Analog)
+EA_PAK            | Pakistan (Analog)
+ED_PAK            | Pakistan (Digital)
+EA_SRI            | Sri Lanka (Analog)
 
 #### Asia Pacific
 Local Set Option  | Countries
 ----------------- | -------------------------------------
-EA_INA            | Indonesia
-ED_INA            | Indonesia
-EA_MAL            | Malaysia
-ED_MAL            | Malaysia
-ED_MYAN           | Myanmar
-EA_PHI            | Philippines
-ED_PHI            | Philippines
+EA_INA            | Indonesia (Analog)
+ED_INA            | Indonesia (Digital)
+EA_MAL            | Malaysia (Analog)
+ED_MAL            | Malaysia (Digital)
+ED_MYAN           | Myanmar (Digital)
+EA_PHI            | Philippines (Analog)
+ED_PHI            | Philippines (Digital)
 AD_SIN            | Singapore
-AD_SIN2           | Singapore
-EA_THAI           | Thailand
-ED_THAI           | Thailand
-EA_VIET           | Vietnam
-ED_VIET           | Vietnam
+AD_SIN2           | Singapore 2
+EA_THAI           | Thailand (Analog)
+ED_THAI           | Thailand (Digital)
+EA_VIET           | Vietnam (Analog)
+ED_VIET           | Vietnam (Digital)
 EA_E_ASIA         | Eastern Asia (Other)
 AD_AU             | Australia
 AD_AU2            | Australia
