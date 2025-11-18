@@ -4,12 +4,21 @@ Configure the factory menu on Samsung Smart TVs, Monitors, and projectors.
 
 Do not change things unless it's really necessary.
 
-Tested on firmware 8.0.1xxx.x and later.
+Tested on Tizen firmware 8.0.1xxx.x and later.
 
 Tizen Version  | Current Version
 -------------- | ---------------
-Tizen 8.0      | 8.0.2043.1
-Tizen 9.0      | 9.0.xxxx.x 
+Tizen 7        | 7.0.2000.2
+Tizen 8        | 8.0.2043.1
+Tizen 9        | 9.0.xxxx.x
+
+**Note:** Tizen OS upgrades are only available on C series (2023) displays and newer.
+
+Generation | EOL Year
+---------- | --------
+C (2023)   | 2030
+D (2024)   | 2031
+F (2025)   | 2032
 
 ## Main Page
 
