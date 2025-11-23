@@ -10,7 +10,7 @@ Tizen Version  | Current Version
 -------------- | ---------------
 Tizen 7        | 7.0.2000.2
 Tizen 8        | 8.0.2043.1
-Tizen 9        | 9.0.1131.0
+Tizen 9        | 9.0.2111.1
 
 **Note:** Tizen OS upgrades are only available on C series (2023) displays and newer.
 
