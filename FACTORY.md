@@ -1,10 +1,10 @@
 # Factory Menu
 
-Configure the factory menu on Samsung Smart TVs, Monitors, and projectors.
+Configure the factory menu on Samsung Smart TVs, Monitors (including the Movingstyle 27"), and Projectors (Premiere & Freestyle).
 
 Do not change things unless it's really necessary.
 
-Tested on Tizen firmware 7.0.2000.2 and later.
+Tested on Tizen firmware 7.0.2000.2 and later. Versions in x.x.6500.0 denote an OS upgrade and do not count towards the table below.
 
 Tizen Version  | Current Version
 -------------- | ---------------
