@@ -15,7 +15,7 @@ Tizen 10       | 10.0.1106.3
 
 **Note:** Tizen OS upgrades are only available on C series (2023) displays and newer.
 
-Generation | EOL Date
+Generation | Update Period (Valid Until)
 ---------- | ---------
 C (2023)   | 5/31/2030
 D (2024)   | 6/30/2031
