@@ -273,7 +273,7 @@ Code | Native Name   | English Name | Menu? | Keyboard?
 ENG  | English       | English      | Yes   | Yes
 THA  | ไทย           | Thai         | Yes   | Yes
 CAM  | ខ្មែរ            | Khmer        | Yes   | Yes
-CHI  | 简体中文        | Chinese      | Yes   | Yes
+CHI  | 简体中文       | Chinese      | Yes   | Yes
 MYA  | မြန်မာ          | Burmese      | Yes   | Yes
 DEU  | Deutsch       | German       | Yes   | Yes
 RUS  | Русский       | Russian      | Yes   | Yes
@@ -284,10 +284,10 @@ POR  | Português     | Portuguese   | Yes   | Yes
 MAY  | Bahasa Melayu | Malay        | Yes   | Yes
 VIE  | Tiếng Việt    | Vietnamese   | Yes   | Yes
 IND  | Indonesia     | Indonesian   | Yes   | Yes
-TPE  | 國語           | Taiwanese    | Yes   | Yes
-TAM  | தமிழ்          | Tamil        | Yes   | Yes
-KOR  | 한국어         | Korean       | Yes   | Yes
-HIN  | हिंदी           | Hindi        | Yes   | Yes
+TPE  | 國語          | Taiwanese    | Yes   | Yes
+TAM  | தமிழ்        | Tamil        | Yes   | Yes
+KOR  | 한국어        | Korean       | Yes   | Yes
+HIN  | हिंदी          | Hindi        | Yes   | Yes
 
 
 ##### IRAN
@@ -297,11 +297,11 @@ Iran
 Code | Native Name | English Name   | Menu? | Keyboard?
 ---- | ----------- | -------------- | ----- | ---------
 ENG  | English     | English        | Yes   | Yes
-PER  | فارسی       | Persian        | Yes   | Yes
-ARA  | العربية     | Arabic         | Yes   | Yes
-SOR  | سۆرانی      | Sorani          | Yes   | No
+PER  | فارسی        | Persian        | Yes   | Yes
+ARA  | العربية        | Arabic         | Yes   | Yes
+SOR  | سۆرانی       | Sorani          | Yes   | No
 KUR  | Kurmancî    | Kurdish        | Yes   | No
-URD  | اردو        | Urdu           | Yes   | Yes
+URD  | اردو         | Urdu           | Yes   | Yes
 
 
 ##### ISRAEL
@@ -312,8 +312,8 @@ Code | Native Name | English Name | Menu? | Keyboard?
 ---- | ----------- | ------------ | ----- | ---------
 ENG  | English     | English      | Yes   | Yes
 FRA  | Français    | French       | Yes   | Yes
-ARA  | العربية     | Arabic       | Yes   | Yes
-HEB  | עברית       | Hebrew       | Yes   | Yes
+ARA  | العربية        | Arabic       | Yes   | Yes
+HEB  | עברית        | Hebrew       | Yes   | Yes
 RUS  | Русский     | Russian      | Yes   | Yes
 TUR  | Türkçe      | Turkish      | Yes   | Yes
 DEU  | Deutsch     | German       | Yes   | Yes
@@ -328,12 +328,12 @@ Code | Native Name | English Name   | Menu? | Keyboard?
 ---- | ----------- | -------------- | ----- | ---------
 ENG  | English     | English        | Yes   | Yes
 FRA  | Français    | French         | Yes   | Yes
-ARA  | العربية     | Arabic         | Yes   | Yes
-URD  | اردو        | Urdu           | Yes   | Yes
-SOR  | سۆرانی      | Sorani         | Yes   | No
+ARA  | العربية        | Arabic         | Yes   | Yes
+URD  | اردو         | Urdu           | Yes   | Yes
+SOR  | سۆرانی       | Sorani         | Yes   | No
 KUR  | Kurmancî    | Kurdish        | Yes   | No
-KOR  | 한국어        | Korean         | Yes   | Yes
-PER  | فارسی       | Persian        | Yes   | Yes
+KOR  | 한국어       | Korean         | Yes   | Yes
+PER  | فارسی        | Persian        | Yes   | Yes
 RUS  | Русский     | Russian        | Yes   | Yes
 HIN  | हिंदी         | Hindi          | Yes   | Yes
 
@@ -367,7 +367,7 @@ Code | Native Name | English Name | Menu? | Keyboard?
 ENG  | English     | English      | Yes   | Yes
 FRA  | Français    | French       | Yes   | Yes
 POR  | Português   | Portuguese   | Yes   | Yes
-ARA  | العربية     | Arabic       | Yes   | Yes
+ARA  | العربية        | Arabic       | Yes   | Yes
 YOR  | Yorùbá      | Yoruba       | Yes   | Yes
 IGB  | Asusu Igbo  | Igbo         | Yes   | Yes
 HAU  | Hausa       | Hausa        | Yes   | Yes
@@ -385,8 +385,8 @@ Code | Native Name | English Name | Menu? | Keyboard?
 ---- | ----------- | ------------ | ----- | ---------
 ENG  | English     | English      | Yes   | Yes
 FRA  | Français    | French       | Yes   | Yes
-ARA  | العربية     | Arabic       | Yes   | Yes
-HEB  | עברית       | Hebrew       | Yes   | Yes
+ARA  | العربية        | Arabic       | Yes   | Yes
+HEB  | עברית        | Hebrew       | Yes   | Yes
 RUS  | Русский     | Russian      | Yes   | Yes
 TUR  | Türkçe      | Turkish      | Yes   | Yes
 DEU  | Deutsch     | German       | Yes   | Yes
@@ -400,26 +400,26 @@ Code | Native Name   | English Name      | Menu? | Keyboard?
 ---- | ------------- | ----------------- | ----- | ---------
 ENG  | English       | English           | Yes   | Yes
 HIN  | हिंदी           | Hindi             | Yes   | Yes
-TAM  | தமிழ்          | Tamil             | Yes   | Yes
+TAM  | தமிழ்         | Tamil             | Yes   | Yes
 BEN  | বাংলা          | Bangla            | Yes   | No
-TEL  | తెలుగు         | Telugu            | Yes   | No
+TEL  | తెలుగు        | Telugu            | Yes   | No
 MAR  | मराठी          | Marathi           | Yes   | No
 KOK  | कोंकणी         | Konkani           | Yes   | No
 GUJ  | ગુજરાતી         | Gujarati          | Yes   | No
 KAN  | ಕನ್ನಡ          | Kannada           | Yes   | No
-MAL  | മലയാളം        | Malayalam         | Yes   | No
-ORI  | ଓଡ଼ିଆ          | Odia              | Yes   | No
+MAL  | മലയാളം      | Malayalam         | Yes   | No
+ORI  | ଓଡ଼ିଆ           | Odia              | Yes   | No
 PAN  | ਪੰਜਾਬੀ          | Punjabi           | Yes   | No
 ASM  | অসমীয়া        | Assamese          | Yes   | No
-MAI  | मैथिली         | Maithili          | Yes   | No
+MAI  | मैथिली          | Maithili          | Yes   | No
 SAN  | ᱥᱟᱱᱛᱟᱲᱤ      | Santali           | Yes   | No
 KAS  | कॉशुर          | Kashmiri          | Yes   | No
 NEP  | नेपाली          | Nepali            | Yes   | No
 SIN  | सिन्धी          | Sindhi            | Yes   | No
-MAN  | মণিপুরী         | Manipuri          | Yes   | No
-SKR  | संस्कृतम्         | Sanskrit          | Yes   | No
-BHI  | भिलोडी          | Bhilodi           | Yes   | No
-TUL  | ತುಳು           | Tulu              | Yes   | No
+MAN  | মণিপুরী        | Manipuri          | Yes   | No
+SKR  | संस्कृतम्        | Sanskrit          | Yes   | No
+BHI  | भिलोडी        | Bhilodi           | Yes   | No
+TUL  | ತುಳು         | Tulu              | Yes   | No
 URD  | اردو          | Urdu              | Yes   | Yes
 
 
@@ -430,7 +430,7 @@ Malaysia and China mainland
 Code | Native Name   | English Name      | Menu? | Keyboard?
 ---- | ------------- | ----------------- | ----- | ---------
 ENG  | English       | English           | Yes   | Yes
-CHI  | 简体中文        | Chinese           | Yes   | Yes
+CHI  | 简体中文       | Chinese           | Yes   | Yes
 MAY  | Bahasa Melayu | Malay             | Yes   | Yes
 
 ##### KOREA
@@ -439,7 +439,7 @@ South Korea
 
 Code   | Native Name | English Name  | Menu? | Keyboard?
 ------ | ----------- | ------------- | ----- | ---------
-KOR    | 한국어        | Korean        | Yes   | Yes
+KOR    | 한국어       | Korean        | Yes   | Yes
 ENG_US | English     | English (US)  | Yes   | Yes
 
 
@@ -482,7 +482,7 @@ SLV    | Slovenščina | Slovenian               | Yes   | Yes
 ALB    | Shqip       | Albanian                | Yes   | Yes
 MKD    | Македонски  | Macedonian              | Yes   | Yes
 BOS    | Bosanski    | Bosnian                 | Yes   | No
-KOR    | 한국어        | Korean                  | Yes   | Yes
+KOR    | 한국어       | Korean                  | Yes   | Yes
 
 
 ##### CIS
@@ -529,20 +529,22 @@ ENG  | English     | English      | Yes   | Yes
 FRA  | Français    | French       | Yes   | Yes
 RUS  | Русский     | Russian      | Yes   | Yes
 TUR  | Türkçe      | Turkish      | Yes   | Yes
-ARA  | العربية     | Arabic       | Yes   | Yes
+ARA  | العربية        | Arabic       | Yes   | Yes
 SPA  | Español     | Spanish      | Yes   | Yes
-KOR  | 한국어        | Korean       | Yes   | Yes
-PER  | فارسی       | Persian        | Yes   | Yes
+KOR  | 한국어       | Korean       | Yes   | Yes
+PER  | فارسی        | Persian      | Yes   | Yes
 
 
 ##### CHINA
 
 China mainland
 
+**Note:** Samsung has discontinued all sales of smart displays and home appliances as of 5/6/2026.
+
 Code | Native Name   | English Name      | Menu? | Keyboard?
 ---- | ------------- | ----------------- | ----- | ---------
 ENG  | English       | English           | Yes   | Yes
-CHI  | 简体中文        | Chinese           | Yes   | Yes
+CHI  | 简体中文       | Chinese           | Yes   | Yes
 
 
 ##### HONGKONG
@@ -552,8 +554,8 @@ Hong Kong, Macao, and China mainland
 Code | Native Name   | English Name        | Menu? | Keyboard?
 ---- | ------------- | ------------------- | ----- | ---------
 ENG  | English       | English             | Yes   | Yes
-HKG  | 繁體中文         | Cantonese          | Yes   | Yes
-CHI  | 简体中文        | Chinese             | Yes   | Yes
+HKG  | 繁體中文       | Cantonese           | Yes   | Yes
+CHI  | 简体中文       | Chinese             | Yes   | Yes
 
 
 ##### JAPAN
@@ -563,7 +565,7 @@ Japan
 Code    | Native Name | English Name      | Menu? | Keyboard?
 ------- | ----------- | ----------------- | ----- | ---------
 ENG_US  | English     | English (US)      | Yes   | Yes
-JPN     | 日本語        | Japanese          | Yes   | Yes
+JPN     | 日本語       | Japanese          | Yes   | Yes
 
 
 
@@ -587,9 +589,9 @@ Code | Native Name   | English Name      | Menu? | Keyboard?
 ENG  | English       | English           | Yes   | Yes
 IND  | Indonesia     | Indonesia         | Yes   | Yes
 VIE  | Tiếng Việt    | Vietnamese        | Yes   | Yes
-CHI  | 简体中文        | Chinese           | Yes   | Yes
+CHI  | 简体中文       | Chinese           | Yes   | Yes
 FIL  | Tagalog       | Filipino          | Yes   | No
-KOR  | 한국어          | Korean            | Yes   | Yes
+KOR  | 한국어         | Korean            | Yes   | Yes
 
 
 ##### EU
@@ -685,11 +687,11 @@ MKD  | Македонски  | Macedonian    | Yes   | Yes
 UKR  | Українська  | Ukrainian     | Yes   | Yes
 KAZ  | Қазақ       | Kazakh        | Yes   | Yes
 AZE  | Azərbaycan  | Azerbaijani   | Yes   | No
-GEO  | ქართული     | Georgian      | Yes   | No
+GEO  | ქართული    | Georgian      | Yes   | No
 ARM  | Հայերեն     | Armenian      | Yes   | No
 UZB  | O‘zbek      | Uzbek         | Yes   | No
 MON  | Монгол Улс  | Mongolian     | Yes   | No
-KOR  | 한국어        | Korean        | Yes   | Yes
+KOR  | 한국어       | Korean        | Yes   | Yes
 
 
 ##### CENTRAL ASIA
@@ -736,9 +738,9 @@ Code | Native Name   | English Name      | Menu? | Keyboard?
 ---- | ------------- | ----------------- | ----- | ---------
 ENG  | English       | English           | Yes   | Yes
 THA  | ไทย           | Thai              | Yes   | Yes
-MYA  | မြန်မာ          | Burmese           | Yes   | Yes
-CAM  | ខ្មែរ            | Khmer             | Yes   | Yes
-CHI  | 简体中文        | Chinese           | Yes   | Yes
+MYA  | မြန်မာ         | Burmese           | Yes   | Yes
+CAM  | ខ្មែរ           | Khmer             | Yes   | Yes
+CHI  | 简体中文       | Chinese           | Yes   | Yes
 
 
 
