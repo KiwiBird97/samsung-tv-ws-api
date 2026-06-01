@@ -128,10 +128,13 @@ hi-IN       | HIN          | हिंदी                          | Hindi
 hr-HR       | CRO          | Hrvatski                     | Croatian
 hu-HU       | HUN          | Magyar                       | Hungarian
 hy-AM       | ARM          | Հայերեն                      | Armenian
+id-ID       | IND          | Indonesia                    | Indonesian
 ig-NG       | IGB          | Asusu Igbo                   | Igbo
 it-IT       | ITA          | Italiano                     | Italian
+ja-JP       | JPN          | 日本語                        | Japanese
 ka-GE       | GEO          | ქართული                     | Georgian
 kk-KZ       | KAZ          | Қазақ                        | Kazakh
+km-KH       | CAM          | ខ្មែរ                          | Khmer
 kn-IN       | KAN          | ಕನ್ನಡ                        | Kannada
 ko-KR       | KOR          | 한국어                        | Korean
 kok-IN      | KOK          | कोंकणी                        | Konkani
@@ -140,11 +143,14 @@ ku-TR       | KUR          | Kurmancî                     | Kurdish
 lt-LT       | LTU          | Lietuvių                     | Lithuanian
 lv-LV       | LAT          | Latviešu                     | Latvian
 mai-IN      | MAI          | मैथिली                        | Maithili
+mi-NZ       | MAO          | Māori                        | Māori
 mk-MK       | MKD          | Македонски                   | Macedonian
 ml-IN       | MAL          | മലയാളം                    | Malayalam
 mn-MN       | MON          | Монгол Улс                   | Mongolian
 mni-IN      | MAN          | মণিপুরী                       | Manipuri
 mr-IN       | MAR          | मराठी                         | Marathi
+ms-MY       | MAY          | Bahasa Melayu                | Malay
+my-MM       | MYA          | မြန်မာ                         | Burmese
 ne-NP       | NEP          | नेपाली                        | Nepali
 nl-NL       | DUT          | Nederlands                   | Dutch
 nn-NO       | NOR          | Norsk                        | Norwegian
@@ -166,14 +172,21 @@ sv-SE       | SWE          | Svenska                      | Swedish
 sw-KE       | SWA          | Kiswahili                    | Swahili
 ta-IN       | TAM          | தமிழ்                        | Tamil
 te-IN       | TEL          | తెలుగు                       | Telugu
+th-TH       | THA          | ไทย                          | Thai
+tl-PH       | FIL          | Tagalog                      | Filipino
 tr-TR       | TUR          | Türkçe                       | Turkish
 tu-IN       | TUL          | ತುಳು                         | Tulu
 uk-UA       | UKR          | Українська                   | Ukrainian
 ur-PK       | URD          | اردو                         | Urdu
 uz-UZ       | UZB          | O‘zbek                       | Uzbek
+vi-VN       | VIE          | Tiếng Việt                   | Vietnamese
 xh-ZA       | XHO          | IsiXhosa                     | Xhosa
 yo-NG       | YOR          | Yorùbá                       | Yoruba
+zh-CN       | CHI          | 简体中文                      | Simplified Chinese
+zh-HK       | HKG          | 繁體中文                      | Traditional Chinese (Hong Kong)
+zh-TW       | TPE          | 國語                          | Traditional Chinese (Taiwan)
 zu-ZA       | ZUL          | IsiZulu                      | Zulu
+
 
 
 
