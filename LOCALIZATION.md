@@ -91,15 +91,21 @@ LANG_JSON_DATA = {
 3. Load language resources with the ```<script src="language.js"></script>``` element in the index.html file. Optionally, use the strings to display localized content, such as ```log('hello=' + LANG_JSON_DATA['hello']);```.
 
 
+
 ## Locale Folder Names
 
 Because Tizen Mobile was deprecated as of version 7.0, the following languages are supported. Replace all underscores with dashes like the ones below.
 
 Folder Name | Factory Code | Native Name                  | English Name
 ----------- | ------------ | ---------------------------- | ------------------------
+ar-AE       | ARA          | العربية                     | Arabic
+as-IN       | ASM          | অসমীয়া                      | Assamese
 az-AZ       | AZE          | Azərbaycan                   | Azerbaijani
 bg-BG       | BUL          | Български                    | Bulgarian
+bh-IN       | BHI          | भिलोडी                        | Bhili
+bn-IN       | BEN          | বাংলা                         | Bangla
 bs-BA       | BOS          | Bosanski                     | Bosnian
+ckb-IQ      | SOR          | سۆرانی                       | Central Kurdish
 cs-CZ       | CZE          | Čeština                      | Czech
 da-DK       | DAN          | Dansk                        | Danish
 de-DE       | DEU          | Deutsch                      | German
@@ -109,34 +115,58 @@ en-US       | ENG_US       | English (United States)      | English (United Stat
 es-ES       | SPA          | Español (España)             | Spanish (Spain)
 es-MX       | SPA_US       | Español (México)             | Spanish (Mexico)
 et-EE       | EST          | Eesti                        | Estonian
+fa-IR       | PER          | فارسی                       | Persian
 fi-FI       | FIN          | Suomi                        | Finnish
 fr-CA       | FRA_US       | Français (Canada)            | French (Canada)
 fr-FR       | FRA          | Français (France)            | French (France)
+gu-IN       | GUJ          | ગુજરાતી                       | Gujarati
+he-IL       | HEB          | עברית                       | Hebrew
+hi-IN       | HIN          | हिंदी                          | Hindi
 hr-HR       | CRO          | Hrvatski                     | Croatian
 hu-HU       | HUN          | Magyar                       | Hungarian
 hy-AM       | ARM          | Հայերեն                      | Armenian
 it-IT       | ITA          | Italiano                     | Italian
 ka-GE       | GEO          | ქართული                     | Georgian
 kk-KZ       | KAZ          | Қазақ                        | Kazakh
+kn-IN       | KAN          | ಕನ್ನಡ                        | Kannada
 ko-KR       | KOR          | 한국어                        | Korean
+kok-IN      | KOK          | कोंकणी                        | Konkani
+ks-IN       | KAS          | कॉशुर                        | Kashmiri
+ku-TR       | KUR          | Kurmancî                     | Kurdish
 lt-LT       | LTU          | Lietuvių                     | Lithuanian
 lv-LV       | LAT          | Latviešu                     | Latvian
+mai-IN      | MAI          | मैथिली                        | Maithili
 mk-MK       | MKD          | Македонски                   | Macedonian
+ml-IN       | MAL          | മലയാളം                    | Malayalam
 mn-MN       | MON          | Монгол Улс                   | Mongolian
+mni-IN      | MAN          | মণিপুরী                       | Manipuri
+mr-IN       | MAR          | मराठी                         | Marathi
+ne-NP       | NEP          | नेपाली                        | Nepali
 nl-NL       | DUT          | Nederlands                   | Dutch
 nn-NO       | NOR          | Norsk                        | Norwegian
+or-IN       | ORI          | ଓଡ଼ିଆ                         | Odia
+pa-PK       | PAN          | ਪੰਜਾਬੀ                        | Punjabi
 pl-PL       | POL          | Polski                       | Polish
 pt-BR       | POR_US       | Português (Brasil)           | Portuguese (Brazil)
 pt-PT       | POR          | Português (Portugal)         | Portuguese (Portugal)
 ro-RO       | ROM          | Română                       | Romanian
 ru-RU       | RUS          | Русский                      | Russian
+sa-IN       | SKR          | संस्कृतम्                       | Sanskrit
+sat-IN      | SAN          | ᱥᱟᱱᱛᱟᱲᱤ                    | Santali
+sd-IN       | SIN          | सिन्धी                         | Sindhi
 sq-AL       | ALB          | Shqip                        | Albanian
 sr-RS       | SER          | Srpski                       | Serbian
 sk-SK       | SLK          | Slovenčina                   | Slovak
 sl-SI       | SLV          | Slovenščina                  | Slovenian
 sv-SE       | SWE          | Svenska                      | Swedish
+ta-IN       | TAM          | தமிழ்                        | Tamil
+te-IN       | TEL          | తెలుగు                       | Telugu
+tr-TR       | TUR          | Türkçe                       | Turkish
+tu-IN       | TUL          | ತುಳು                         | Tulu
 uk-UA       | UKR          | Українська                   | Ukrainian
+ur-PK       | URD          | اردو                         | Urdu
 uz-UZ       | UZB          | O‘zbek                       | Uzbek
+
 
 
 ## MRT Option
