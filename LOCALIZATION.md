@@ -97,6 +97,7 @@ Because Tizen Mobile was deprecated as of version 7.0, the following languages a
 
 Folder Name | Factory Code | Native Name                  | English Name
 ----------- | ------------ | ---------------------------- | ------------------------
+az-AZ       | AZE          | Azərbaycan                   | Azerbaijani
 bg-BG       | BUL          | Български                    | Bulgarian
 bs-BA       | BOS          | Bosanski                     | Bosnian
 cs-CZ       | CZE          | Čeština                      | Czech
@@ -113,22 +114,29 @@ fr-CA       | FRA_US       | Français (Canada)            | French (Canada)
 fr-FR       | FRA          | Français (France)            | French (France)
 hr-HR       | CRO          | Hrvatski                     | Croatian
 hu-HU       | HUN          | Magyar                       | Hungarian
+hy-AM       | ARM          | Հայերեն                      | Armenian
 it-IT       | ITA          | Italiano                     | Italian
+ka-GE       | GEO          | ქართული                     | Georgian
+kk-KZ       | KAZ          | Қазақ                        | Kazakh
 ko-KR       | KOR          | 한국어                        | Korean
 lt-LT       | LTU          | Lietuvių                     | Lithuanian
 lv-LV       | LAT          | Latviešu                     | Latvian
 mk-MK       | MKD          | Македонски                   | Macedonian
+mn-MN       | MON          | Монгол Улс                   | Mongolian
 nl-NL       | DUT          | Nederlands                   | Dutch
 nn-NO       | NOR          | Norsk                        | Norwegian
 pl-PL       | POL          | Polski                       | Polish
 pt-BR       | POR_US       | Português (Brasil)           | Portuguese (Brazil)
 pt-PT       | POR          | Português (Portugal)         | Portuguese (Portugal)
 ro-RO       | ROM          | Română                       | Romanian
+ru-RU       | RUS          | Русский                      | Russian
 sq-AL       | ALB          | Shqip                        | Albanian
 sr-RS       | SER          | Srpski                       | Serbian
 sk-SK       | SLK          | Slovenčina                   | Slovak
 sl-SI       | SLV          | Slovenščina                  | Slovenian
 sv-SE       | SWE          | Svenska                      | Swedish
+uk-UA       | UKR          | Українська                   | Ukrainian
+uz-UZ       | UZB          | O‘zbek                       | Uzbek
 
 
 ## MRT Option
