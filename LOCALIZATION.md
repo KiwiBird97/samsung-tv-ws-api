@@ -84,7 +84,7 @@ LANG_JSON_DATA = {
 
 ```
 LANG_JSON_DATA = {
-   'hello': 'Boujour!'
+   'hello': 'Bonjour!'
 }
 ```
 
@@ -98,6 +98,8 @@ Because Tizen Mobile was deprecated as of version 7.0, the following languages a
 
 Folder Name | Factory Code | Native Name                  | English Name
 ----------- | ------------ | ---------------------------- | ------------------------
+af-ZA       | AFR          | Afrikaans                    | Afrikaans
+am-ET       | AMH          | አማርኛ                        | Amharic
 ar-AE       | ARA          | العربية                     | Arabic
 as-IN       | ASM          | অসমীয়া                      | Assamese
 az-AZ       | AZE          | Azərbaycan                   | Azerbaijani
@@ -120,11 +122,13 @@ fi-FI       | FIN          | Suomi                        | Finnish
 fr-CA       | FRA_US       | Français (Canada)            | French (Canada)
 fr-FR       | FRA          | Français (France)            | French (France)
 gu-IN       | GUJ          | ગુજરાતી                       | Gujarati
+ha-NG       | HAU          | Hausa                        | Hausa
 he-IL       | HEB          | עברית                       | Hebrew
 hi-IN       | HIN          | हिंदी                          | Hindi
 hr-HR       | CRO          | Hrvatski                     | Croatian
 hu-HU       | HUN          | Magyar                       | Hungarian
 hy-AM       | ARM          | Հայերեն                      | Armenian
+ig-NG       | IGB          | Asusu Igbo                   | Igbo
 it-IT       | ITA          | Italiano                     | Italian
 ka-GE       | GEO          | ქართული                     | Georgian
 kk-KZ       | KAZ          | Қазақ                        | Kazakh
@@ -159,6 +163,7 @@ sr-RS       | SER          | Srpski                       | Serbian
 sk-SK       | SLK          | Slovenčina                   | Slovak
 sl-SI       | SLV          | Slovenščina                  | Slovenian
 sv-SE       | SWE          | Svenska                      | Swedish
+sw-KE       | SWA          | Kiswahili                    | Swahili
 ta-IN       | TAM          | தமிழ்                        | Tamil
 te-IN       | TEL          | తెలుగు                       | Telugu
 tr-TR       | TUR          | Türkçe                       | Turkish
@@ -166,6 +171,9 @@ tu-IN       | TUL          | ತುಳು                         | Tulu
 uk-UA       | UKR          | Українська                   | Ukrainian
 ur-PK       | URD          | اردو                         | Urdu
 uz-UZ       | UZB          | O‘zbek                       | Uzbek
+xh-ZA       | XHO          | IsiXhosa                     | Xhosa
+yo-NG       | YOR          | Yorùbá                       | Yoruba
+zu-ZA       | ZUL          | IsiZulu                      | Zulu
 
 
 
