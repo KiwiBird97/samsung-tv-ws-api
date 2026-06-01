@@ -41,6 +41,96 @@ $ pip3 install "./samsung-tv-ws-api[async,encrypted]"
 
 
 
+## Developing Localization
+
+You can ensure that your app works around the world in different locales.
+
+
+### Web
+
+1. Create a directory for each locale, like this:
+```
+* index.html
+* locales
+    * en
+        * language.js
+    * es
+        * language.js
+    * fr
+        * language.js
+    * ko
+        * language.js
+```
+
+2. Create a common JavaScript (JS) object for language strings with a global JS object in the file, such as LANG_JSON_DATA.
+
+* en-US/language.js:
+
+```
+LANG_JSON_DATA = {
+   'hello': 'Hello.'
+}
+```
+
+* es-MX/language.js:
+
+```
+LANG_JSON_DATA = {
+   'hello': '¡Hola!'
+}
+```
+
+* fr-CA/language.js:
+
+```
+LANG_JSON_DATA = {
+   'hello': 'Boujour!'
+}
+```
+
+3. Load language resources with the ```<script src="language.js"></script>``` element in the index.html file. Optionally, use the strings to display localized content, such as ```log('hello=' + LANG_JSON_DATA['hello']);```.
+
+
+## Locale Folder Names
+
+Because Tizen Mobile was deprecated as of version 7.0, the following languages are supported. Replace all underscores with dashes like the ones below.
+
+Folder Name | Factory Code | Native Name                  | English Name
+----------- | ------------ | ---------------------------- | ------------------------
+bg-BG       | BUL          | Български                    | Bulgarian
+bs-BA       | BOS          | Bosanski                     | Bosnian
+cs-CZ       | CZE          | Čeština                      | Czech
+da-DK       | DAN          | Dansk                        | Danish
+de-DE       | DEU          | Deutsch                      | German
+el-GR       | GRE          | Ελληνικά                     | Greek
+en-GB       | ENG          | English (United Kingdom)     | English (United Kingdom)
+en-US       | ENG_US       | English (United States)      | English (United States)
+es-ES       | SPA          | Español (España)             | Spanish (Spain)
+es-MX       | SPA_US       | Español (México)             | Spanish (Mexico)
+et-EE       | EST          | Eesti                        | Estonian
+fi-FI       | FIN          | Suomi                        | Finnish
+fr-CA       | FRA_US       | Français (Canada)            | French (Canada)
+fr-FR       | FRA          | Français (France)            | French (France)
+hr-HR       | CRO          | Hrvatski                     | Croatian
+hu-HU       | HUN          | Magyar                       | Hungarian
+it-IT       | ITA          | Italiano                     | Italian
+ko-KR       | KOR          | 한국어                        | Korean
+lt-LT       | LTU          | Lietuvių                     | Lithuanian
+lv-LV       | LAT          | Latviešu                     | Latvian
+mk-MK       | MKD          | Македонски                   | Macedonian
+nl-NL       | DUT          | Nederlands                   | Dutch
+nn-NO       | NOR          | Norsk                        | Norwegian
+pl-PL       | POL          | Polski                       | Polish
+pt-BR       | POR_US       | Português (Brasil)           | Portuguese (Brazil)
+pt-PT       | POR          | Português (Portugal)         | Portuguese (Portugal)
+ro-RO       | ROM          | Română                       | Romanian
+sq-AL       | ALB          | Shqip                        | Albanian
+sr-RS       | SER          | Srpski                       | Serbian
+sk-SK       | SLK          | Slovenčina                   | Slovak
+sl-SI       | SLV          | Slovenščina                  | Slovenian
+sv-SE       | SWE          | Svenska                      | Swedish
+
+
 ## MRT Option
 
 ### Language Set
