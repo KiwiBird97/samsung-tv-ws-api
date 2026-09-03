@@ -96,6 +96,8 @@ LANG_JSON_DATA = {
 
 Because Tizen Mobile was deprecated as of version 7.0, the following languages are supported. Replace all underscores with dashes like the ones below.
 
+Current version: 9.0.2231.1
+
 Folder Name | Factory Code | Native Name                  | English Name
 ----------- | ------------ | ---------------------------- | ------------------------
 af-ZA       | AFR          | Afrikaans                    | Afrikaans
@@ -107,6 +109,7 @@ bg-BG       | BUL          | Български                    | Bulgarian
 bh-IN       | BHI          | भिलोडी                        | Bhili
 bn-IN       | BEN          | বাংলা                         | Bangla
 bs-BA       | BOS          | Bosanski                     | Bosnian
+ca-ES       | CAT          | Català                       | Catalan
 ckb-IQ      | SOR          | سۆرانی                       | Central Kurdish
 cs-CZ       | CZE          | Čeština                      | Czech
 da-DK       | DAN          | Dansk                        | Danish
@@ -117,10 +120,12 @@ en-US       | ENG_US       | English (United States)      | English (United Stat
 es-ES       | SPA          | Español (España)             | Spanish (Spain)
 es-MX       | SPA_US       | Español (México)             | Spanish (Mexico)
 et-EE       | EST          | Eesti                        | Estonian
+eu-ES       | EUS          | Euskara                      | Basque
 fa-IR       | PER          | فارسی                       | Persian
 fi-FI       | FIN          | Suomi                        | Finnish
 fr-CA       | FRA_US       | Français (Canada)            | French (Canada)
 fr-FR       | FRA          | Français (France)            | French (France)
+gl-ES       | GLG          | Galego                       | Galician
 gu-IN       | GUJ          | ગુજરાતી                       | Gujarati
 ha-NG       | HAU          | Hausa                        | Hausa
 he-IL       | HEB          | עברית                       | Hebrew
@@ -164,10 +169,10 @@ ru-RU       | RUS          | Русский                      | Russian
 sa-IN       | SKR          | संस्कृतम्                       | Sanskrit
 sat-IN      | SAN          | ᱥᱟᱱᱛᱟᱲᱤ                    | Santali
 sd-IN       | SIN          | सिन्धी                         | Sindhi
-sq-AL       | ALB          | Shqip                        | Albanian
-sr-RS       | SER          | Srpski                       | Serbian
 sk-SK       | SLK          | Slovenčina                   | Slovak
 sl-SI       | SLV          | Slovenščina                  | Slovenian
+sq-AL       | ALB          | Shqip                        | Albanian
+sr-RS       | SER          | Srpski                       | Serbian
 sv-SE       | SWE          | Svenska                      | Swedish
 sw-KE       | SWA          | Kiswahili                    | Swahili
 ta-IN       | TAM          | தமிழ்                        | Tamil
